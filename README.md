@@ -1,4 +1,4 @@
-# Final project:Instant messaging system
+# Final project:LAN Instant Communication System Based on Raspberry Pi
 
 There are 2 parts of this project: server-side and client-side
 
